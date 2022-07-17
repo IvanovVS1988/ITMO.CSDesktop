@@ -1,0 +1,2 @@
+1) D gfgrt ITMO.CSDesktop.WinForms.Labs
+2) В папке ITMO.CSDesktop.WPF.Labs находятся обязательные лаболаторные по практическому руководству "Разработка Windows-приложений WPF" Windows Presentation Foundation

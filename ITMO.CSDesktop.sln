@@ -83,6 +83,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FINALTASK.Calculator", "FIN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "ITMO.CSDesktop.FINALTASK.Calculator\Calculator.csproj", "{A27CBA1C-371A-4708-BB01-9848A8B50505}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB557350-F995-4237-834E-E2CE12402D7A}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
